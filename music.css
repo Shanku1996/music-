@@ -1,0 +1,417 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    background-color: lightskyblue;
+}
+.navbar{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    height: 80px;
+    background-color:wheat;
+}
+
+.dd{
+    margin-right: 550px;
+}
+
+.div00{
+    display: flex;
+    flex-direction: row;
+    width:220px;
+    gap: 25px;
+    
+}
+.img00{
+    width: 150px;
+    height: 100px;
+   
+}
+.div01{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-left: 2px;
+    background-color: darksalmon;
+    height: 50px;
+    width: 1300px;
+}
+.head1{
+    margin-bottom: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin-bottom: 45px;
+    font-size: 30px;
+ }
+ .image1{
+    margin-top: 3px;
+    margin-left: 350px;
+   width: 75px;
+   border-radius: 100%;
+   position: absolute;
+  
+   
+ }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container>div{
+ width: 200px;
+ height: 280px;
+ text-align: center;
+ font-size:10px ;
+ 
+
+}
+
+
+.div02{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    color:black;
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#image{
+    height: 172px;
+}
+
+.img01{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+
+}
+.btn1{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background-color:blueviolet ;
+}
+
+.div03{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn2{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn2:hover{
+    background-color:blueviolet ;
+}
+
+.img02{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div04{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn3{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn3:hover{
+    background-color:blueviolet ;
+}
+
+.img03{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div05{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn4{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn4:hover{
+    background-color:blueviolet ;
+}
+.img04{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+.div06{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.btn5{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn5:hover{
+    background-color:blueviolet ;
+}
+.img05{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+
+.div07{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn6{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn6:hover{
+    background-color:blueviolet ;
+}
+
+.img06{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.head2{
+    
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin-bottom: 45px;
+    font-size: 30px;
+ }
+ .image2{
+    margin-top: 1px;
+    margin-left: 300px;
+   width: 80px;
+   border-radius: 100%;
+   position: absolute;
+  
+   
+ }
+
+
+.div08{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn7{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn7:hover{
+    background-color:blueviolet ;
+}
+.img07{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div09{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn8{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn8:hover{
+    background-color:blueviolet ;
+}
+.img08{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div10{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn9{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn9:hover{
+    background-color:blueviolet ;
+}
+.img09{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div11{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn10{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn10:hover{
+    background-color:blueviolet ;
+}
+.img10{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div12{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn11{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn11:hover{
+    background-color:blueviolet ;
+}
+.img11{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.div13{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin: 10px;
+    font-size: 25px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn12{
+    width: 50px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.btn12:hover{
+    background-color:blueviolet ;
+}
+.img12{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+}
